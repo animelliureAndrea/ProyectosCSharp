@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playsfi", "Playsfi\Playsfi.csproj", "{89ABE2F9-31CF-4FFE-A615-F1153910FA2F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PlaysfiSetup", "PlaysfiSetup\PlaysfiSetup.vdproj", "{E4E1B04E-0926-4F16-A29E-0E9E414720FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89ABE2F9-31CF-4FFE-A615-F1153910FA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ABE2F9-31CF-4FFE-A615-F1153910FA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ABE2F9-31CF-4FFE-A615-F1153910FA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ABE2F9-31CF-4FFE-A615-F1153910FA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E1B04E-0926-4F16-A29E-0E9E414720FE}.Debug|Any CPU.ActiveCfg = Debug
+		{E4E1B04E-0926-4F16-A29E-0E9E414720FE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {073FDDF6-ED82-49A7-93E5-C927FAD81611}
+	EndGlobalSection
+EndGlobal
